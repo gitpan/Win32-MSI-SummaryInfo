@@ -1,0 +1,29 @@
+Win32/MSI/SummaryInfo version 1.0
+=================================
+
+This is a object-oriented interface for changing MSI SummaryInformation stream.
+
+For detail please consult the perl online documentation (pod):
+  perldoc SummaryInfo.pm
+
+
+INSTALLATION
+
+To install this module type the following:
+
+  perl makefile.pl
+  make
+  make test
+  make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Win32::API
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2004, Martin Peter. All rights reserved. This program is free 
+software; it's published under the BSD License. 
+Please see http://www.opensource.org/licenses/bsd-license.php.
